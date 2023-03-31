@@ -1,0 +1,30 @@
+// Font base
+$font-family-base: 'Roboto', sans-serif;
+$font-size-base: 1rem;
+$font-weight-base: 400;
+$line-height-base: 1.5;
+
+// colors palette
+$primary: #0f3c9d;
+// $secondary: #1ac888;
+$error: #d32752;
+$warning: #f6c31c;
+$info: #1ac888;
+$success: #2c87dd;
+$black: #000;
+$white: #fff;
+
+// background
+$bg-body: #fbfbfb;
+$bg-error: lighten($error, 40%);
+$bg-info: lighten($info, 40%);
+$bg-success: lighten($success, 40%);
+
+// border width
+$border-width: 1px;
+$border-radius: 8px;
+$base-shadow: rgba(255, 255, 255, 0.5) 0 0 0 1px inset;
+
+// base padding and margin
+$base-padding: 1rem;
+$base-margin: 1rem;
